@@ -59,3 +59,8 @@ CommandRepositoryを別途用意する場合ちょっと違うやり方になる
     * サンプルの場所にするならSample/Linter以下とかに
 * LinterRepository.csのコンストラクタに設定する
     * Add<T>(CommandList)を利用し、実装したLinterとコマンドを紐付ける
+
+# TODO
+
+* コンバートまわりのパス指定とかが何かと不便なのをどうにかする
+    * 設定ファイルを作れるようにするとか
